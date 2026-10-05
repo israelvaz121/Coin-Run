@@ -48,3 +48,19 @@ Desenvolver o Coin Run me ajudou a entender melhor como transformar uma ideia em
 Durante o desenvolvimento, pratiquei lógica de programação, estruturas condicionais, funções, movimentação de objetos, colisões e sistema de pontuação.
 
 Também percebi que coisas que parecem simples quando estamos jogando podem dar bastante trabalho para programar, e que muitas vezes é necessario fazer varios testes até funcionar do jeito que eu queria.
+
+## Para Jogar
+clone o repositorio ;
+
+vá para a pasta do arquivo ;
+
+instale o arquivo "necessario.exe";
+
+Use os seguintes codigos no terminal para conseguir rodar o jogo:
+
+"git clone https://github.com/israelvaz121/Coin-Run"
+"cd Coin-Run"
+"pip install -r necessario.txt"
+
+
+        
