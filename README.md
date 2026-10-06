@@ -1,6 +1,6 @@
-COIN RUN
+# COIN RUN
 
-Coin Run é um jogo desenvolvido em Python como projeto de programação. O objetivo do projeto foi colocar em prática conceitos de lógica de programação e desenvolvimento de jogos utilizando a biblioteca Pygame.
+**Coin Run** é um jogo desenvolvido em Python como projeto de programação. O objetivo do projeto foi colocar em prática conceitos de lógica de programação e desenvolvimento de jogos utilizando a biblioteca Pygame.
 
 Sobre o projeto
 
@@ -21,9 +21,8 @@ O objetivo é controlar o personagem pelo mapa e coletar as moedas.
 
 Controles
 Tecla	Ação
-SPACE / ↑	pular para cima
+SPACE 	pular para cima
 A / ←	Mover para a esquerda
-S / ↓	Mover para baixo
 D / →	Mover para a direita
 Objetivo
 
@@ -125,7 +124,7 @@ Licença
 
 Este projeto está licenciado sob a licença MIT.
 
-Consulte o arquivo License para mais informações.
+Consulte o arquivo [License](LICENSE) para mais informações.
 
 Autor
 
