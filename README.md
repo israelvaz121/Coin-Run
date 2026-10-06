@@ -8,9 +8,9 @@ No jogo, o jogador controla um personagem em um mapa e deve coletar as moedas di
 
 O projeto começou como uma ideia simples e foi sendo desenvolvido conforme novas mecânicas eram adicionadas e testadas. Durante o desenvolvimento, foram trabalhados conceitos como movimentação, colisões, estruturas condicionais, funções e sistema de pontuação.
 
-Demonstração
+# Demonstração
 
-![Coin Run em funcionamento](coinrun.png)
+![Coin Run em funcionamento](imagens/coinrun.png)
 
 
 A imagem acima apresenta o jogo em funcionamento.
@@ -19,7 +19,7 @@ Como jogar
 
 O objetivo é controlar o personagem pelo mapa e coletar as moedas.
 
-Controles
+# Controles
 Tecla	Ação
 SPACE 	pular para cima
 A / ←	Mover para a esquerda
@@ -45,7 +45,7 @@ Pygame
 
 O projeto foi desenvolvido utilizando Python e a biblioteca Pygame para criar a janela, os elementos visuais, a movimentação e as interações do jogo.
 
-Estrutura do projeto
+# Estrutura do projeto
 Coin-Run/
 │
 ├── coinrun/          # Arquivos relacionados ao jogo
@@ -58,7 +58,7 @@ Coin-Run/
 ├── requirements.txt  # Dependências do projeto
 ├── README.md         # Documentação
 └── License           # Licença do projeto
-Instalação
+# Instalação
 Requisitos
 
 Para executar o código-fonte, é necessário ter:
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 O arquivo requirements.txt contém a biblioteca necessária para executar o jogo:
 
 pygame
-Executando o jogo
+# Executando o jogo
 
 Depois de instalar as dependências, execute o arquivo principal do jogo com Python.
     cd imagens
@@ -95,18 +95,18 @@ Exemplo de execução
 
 Após instalar as dependências e iniciar o jogo, uma janela do Coin Run será aberta.
 
-Resultado esperado:
+# Resultado esperado:
 
 O jogo inicia normalmente;
 O personagem aparece no mapa;
-O jogador pode movimentá-lo utilizando W, A, S, D ou as setas;
+O jogador pode movimentá-lo utilizando SPACE, A, D ou a seta esquerda e/ou a seta direita ;
 As moedas podem ser coletadas durante a movimentação;
 O sistema de pontuação é atualizado conforme o jogador coleta as moedas.
 O que eu aprendi
 
 O desenvolvimento do Coin Run ajudou a colocar em prática conceitos importantes de programação.
 
-Durante o projeto, foram trabalhados:
+# Durante o projeto, foram trabalhados:
 
 Lógica de programação;
 Estruturas condicionais;
@@ -120,7 +120,7 @@ Desenvolvimento de jogos com Python e Pygame.
 
 Além da programação, o projeto também mostrou a importância de testar e corrigir diferentes partes do código até que o jogo funcionasse corretamente.
 
-Licença
+# Licença
 
 Este projeto está licenciado sob a licença MIT.
 
