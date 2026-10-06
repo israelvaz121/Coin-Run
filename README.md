@@ -10,7 +10,7 @@ O projeto começou como uma ideia simples e foi sendo desenvolvido conforme nova
 
 Demonstração
 
-![Coin Run em funcionamento](imagens/coinrun.png)
+![Coin Run em funcionamento](coinrun.png)
 
 
 A imagem acima apresenta o jogo em funcionamento.
