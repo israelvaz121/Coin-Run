@@ -21,7 +21,7 @@ O objetivo é controlar o personagem pelo mapa e coletar as moedas.
 
 Controles
 Tecla	Ação
-W / ↑	Mover para cima
+SPACE / ↑	pular para cima
 A / ←	Mover para a esquerda
 S / ↓	Mover para baixo
 D / →	Mover para a direita
@@ -80,13 +80,9 @@ pygame
 Executando o jogo
 
 Depois de instalar as dependências, execute o arquivo principal do jogo com Python.
+    cd imagens
+    python main.py
 
-python main.py
-
-Caso o arquivo principal esteja dentro da pasta coinrun, utilize o caminho correspondente, por exemplo:
-
-python coinrun/main.py
-Executável
 
 O repositório também possui uma versão compilada do jogo em formato .exe.
 
